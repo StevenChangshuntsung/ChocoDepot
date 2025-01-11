@@ -1,0 +1,2 @@
+# ChocoDepot
+Chocolatey install list
